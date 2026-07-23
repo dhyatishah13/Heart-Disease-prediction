@@ -1,7 +1,3 @@
-#  Heart Disease Prediction using Machine Learning
-
-This project focuses on predicting heart disease using machine learning techniques. By analyzing patient medical records, the system classifies whether a person is likely to have heart disease. The project demonstrates the complete machine learning workflow, including data preprocessing, visualization, model building, evaluation, and comparison.
-
 ##  Project Description
 Heart disease is one of the leading causes of death worldwide. Early prediction can help doctors make better treatment decisions. This project applies various machine learning classification algorithms to identify patterns in patient health data and accurately predict the risk of heart disease.
 
