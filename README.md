@@ -1,42 +1,46 @@
-# Heart-Disease-prediction
-Heart Disease Prediction using classification algorithms to identify disease risk. Models are compared using Accuracy, Precision, Recall, and F1-Score for best results.
- Heart Disease Prediction using Machine Learning
+#  Heart Disease Prediction using Machine Learning
 
-##  Project Overview
-This project predicts the likelihood of heart disease using machine learning classification algorithms. It analyzes patient health data and compares multiple models to identify the most accurate one.
+This project focuses on predicting heart disease using machine learning techniques. By analyzing patient medical records, the system classifies whether a person is likely to have heart disease. The project demonstrates the complete machine learning workflow, including data preprocessing, visualization, model building, evaluation, and comparison.
 
-##  Objective
-- Predict the presence of heart disease.
-- Compare different classification algorithms.
-- Evaluate model performance using standard metrics.
+##  Project Description
+Heart disease is one of the leading causes of death worldwide. Early prediction can help doctors make better treatment decisions. This project applies various machine learning classification algorithms to identify patterns in patient health data and accurately predict the risk of heart disease.
 
-##  Technologies Used
-- Python
-- Jupyter Notebook
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
+##  Goals
+- Analyze patient health data.
+- Build and compare multiple classification models.
+- Identify the most influential features.
+- Improve prediction accuracy through preprocessing and evaluation.
 
-##  Workflow
-1. Data Collection
-2. Data Preprocessing
-3. Exploratory Data Analysis (EDA)
-4. Feature Selection
-5. Model Training
-6. Model Evaluation
-7. Performance Comparison
+##  Tools & Technologies
+- **Programming Language:** Python
+- **Development Environment:** Jupyter Notebook
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
-##  Evaluation Metrics
+##  Project Workflow
+1. Import and understand the dataset.
+2. Clean and preprocess the data.
+3. Perform Exploratory Data Analysis (EDA).
+4. Select important features.
+5. Split the dataset into training and testing sets.
+6. Train multiple machine learning models.
+7. Evaluate model performance using different metrics.
+8. Compare results and select the best-performing model.
+
+##  Machine Learning Models
+- Logistic Regression
+- Decision Tree Classifier
+- Random Forest Classifier
+
+##  Performance Metrics
 - Accuracy
 - Precision
 - Recall
 - F1-Score
 - Confusion Matrix
+- Classification Report
 
-## Outcome
-The project identifies the best-performing machine learning model for predicting heart disease, supporting early detection and healthcare decision-making.
+## Dataset
+- **Source:** Kaggle Heart Disease Dataset
 
-##  Dataset
-Heart Disease Dataset (Kaggle)
+## ✅ Conclusion
+The project successfully demonstrates how machine learning can be used for heart disease prediction. By comparing different classification algorithms, the best-performing model is identified, providing a reliable solution for supporting early diagnosis and healthcare decision-making.
